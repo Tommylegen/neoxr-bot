@@ -3,7 +3,7 @@ global.owner = '6289505054287'
 // Owner name
 global.owner_name = 'RAJA Mods'
 // Maximum upload file size limit (Default : 50 MB)
-global.max_upload = 50
+global.max_upload = 500
 // Delay for spamming protection (Default : 3 seconds)
 global.cooldown = 3
 // User Limitation (Default : 25)
@@ -26,9 +26,9 @@ global.timezone = 'Asia/Jakarta'
 // Bot version
 global.version = '2.2.1',
 // Bot name
-global.botname = `© rajamods v${global.version} (Public Bot)`
+global.botname = `© ᴘᴀᴛʀɪᴄᴋ ʙᴏᴛ v${global.version} (Public Bot)`
 // Footer text
-global.footer = 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ᴘᴀᴛʀɪᴄᴋ-ʙᴏᴛ ッ'
+global.footer = 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ᴘᴀᴛʀɪᴄᴋ ッ'
 // Global status
 global.status = Object.freeze({
    wait: Func.texted('bold', 'Processed . . .'),

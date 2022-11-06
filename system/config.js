@@ -3,7 +3,7 @@ global.owner = '6289505054287'
 // Owner name
 global.owner_name = 'RAJA Mods'
 // Maximum upload file size limit (Default : 50 MB)
-global.max_upload = 50
+global.max_upload = 500
 // Delay for spamming protection (Default : 3 seconds)
 global.cooldown = 3
 // User Limitation (Default : 25)
